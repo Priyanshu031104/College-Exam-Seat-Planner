@@ -23,4 +23,4 @@ Allocate exam classrooms using the minimum number of rooms while preferring lowe
 (Add your deployed URL here)
 
 ## GitHub Repository
-(Add your GitHub repo link here)
+(https://github.com/Priyanshu031104/College-Exam-Seat-Planner/tree/main/College-Exam-Seat-Planner)
